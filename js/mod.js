@@ -1,5 +1,5 @@
 let modInfo = {
-	name: "The ??? Tree",
+	name: "The Train Tree",
 	id: "mymod",
 	author: "nobody",
 	pointsName: "points",
@@ -14,7 +14,7 @@ let modInfo = {
 // Set your version in num and name
 let VERSION = {
 	num: "0.0",
-	name: "Literally nothing",
+	name: "Exponential Idle?",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
